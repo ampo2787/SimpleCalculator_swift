@@ -13,6 +13,7 @@
 		7AB2B96A21D791ED007CF41E /* swiftPractice.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7AB2B96821D791ED007CF41E /* swiftPractice.xcdatamodeld */; };
 		7AB2B96C21D791EF007CF41E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AB2B96B21D791EF007CF41E /* Assets.xcassets */; };
 		7AB2B96F21D791EF007CF41E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AB2B96D21D791EF007CF41E /* LaunchScreen.storyboard */; };
+		7AD0F34121F2F9B40028BBA3 /* CalculateBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD0F34021F2F9B40028BBA3 /* CalculateBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7AB2B96B21D791EF007CF41E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7AB2B96E21D791EF007CF41E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7AB2B97021D791EF007CF41E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7AD0F34021F2F9B40028BBA3 /* CalculateBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7AB2B96D21D791EF007CF41E /* LaunchScreen.storyboard */,
 				7AB2B97021D791EF007CF41E /* Info.plist */,
 				7AB2B96821D791ED007CF41E /* swiftPractice.xcdatamodeld */,
+				7AD0F34021F2F9B40028BBA3 /* CalculateBrain.swift */,
 			);
 			path = swiftPractice;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AB2B96421D791ED007CF41E /* ViewController.swift in Sources */,
+				7AD0F34121F2F9B40028BBA3 /* CalculateBrain.swift in Sources */,
 				7AB2B96221D791ED007CF41E /* AppDelegate.swift in Sources */,
 				7AB2B96A21D791ED007CF41E /* swiftPractice.xcdatamodeld in Sources */,
 			);
